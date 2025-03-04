@@ -1,4 +1,5 @@
-## Hi there 👋
+## 🚀 Welcome to My Digital Space! 🤖✨
+Hey there! I'm Nanditha Arepalli , a passionate AI/ML, GenAI & Robotics Engineer with 1️⃣ year of experience in enhancing intelligent systems!
 
 <!--
 **nanditha-10/nanditha-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌟 Let's Connect!
+📩 Feel free to reach out for collaborations, discussions, or just a tech chat!
+📌 GitHub: https://github.com/nanditha-10
+📌 LinkedIn: https://www.linkedin.com/in/nanditha-arepalli-62874223b/
