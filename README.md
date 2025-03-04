@@ -2,7 +2,7 @@
 
 Hey there! I'm Nanditha Arepalli , an AI/ML, GenAI & Robotics Engineer on a mission to push the boundaries of technology! Whether it's teaching AI to think, automating the real world, or crafting the future of robotics, I'm always up for a challenge! 🚀✨
 
-🌱 Still Learning, Always Evolving!
+"🌱 Still Learning, Always Evolving!"
 
 The world of AI is infinite, and so is the journey of learning! 🚀
 
