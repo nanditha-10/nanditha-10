@@ -4,7 +4,7 @@ Hey there! I'm Nanditha Arepalli , an AI/ML, GenAI & Robotics Engineer on a miss
 
 "🌱 Still Learning, Always Evolving!"
 
-The world of AI is infinite, so is the journey of learning! 🚀
+The world of AI is infinite, so in the journey of learning! 🚀
 
 I’m constantly exploring, experimenting, and pushing limits—let’s learn, build, and grow together! 🔥
 
